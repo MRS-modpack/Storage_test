@@ -1,0 +1,12 @@
+### Auto genarated folder ###
+# remove
+/*
+# add
+!/config
+!/mods
+!/resources
+!/scripts
+!pack.json
+!README.md
+# !resourcepacks
+# !saves
